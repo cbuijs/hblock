@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1793923721 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1794010128 12h 15m 3w 3h
 0-0.fr IN CNAME .
 *.0-0.fr IN CNAME .
 0-02.net IN CNAME .
